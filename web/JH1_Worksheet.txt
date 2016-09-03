@@ -1,5 +1,7 @@
 JH1 worksheet
 Comments:
+Just used the basic layout from the video examples with a few changes
+Made simple form with the submitted display page having a link to go back to the form
 
 ***************** Class Participation    *****************
 Your Class Participation Entry for JH1:
@@ -12,9 +14,11 @@ In response to a question from another student
 ***************** First JSP Page    *****************
 
 Any comments regarding the First JSP Page problem:
+Had no issues
 ____________________________________
 
 ***************** First Html Page    *****************
 
 Any comments regarding the First Html Page problem:
+Had no issues 
 ____________________________________
